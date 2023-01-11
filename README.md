@@ -1,4 +1,6 @@
-<h2> Hi, I'm Miguel Angel! <img src="https://media.tenor.com/bhh8ONgUSjYAAAAi/anime.gif" width="50"></h2>
+<h2> Hi, I'm Miguel Angel! <img src="https://media.tenor.com/bhh8ONgUSjYAAAAi/anime.gif" width="60"></h2>
+
+<p><em>I'm starting my path as a frontend developer</em></br></p>
 
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
