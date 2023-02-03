@@ -1,7 +1,7 @@
 <h2> Hi, I'm Miguel Angel! <img src="https://media.tenor.com/bhh8ONgUSjYAAAAi/anime.gif" width="60"></h2>
 
 <p><em>I'm starting my path as a frontend developer</em></br></p>
-I am 27 years old and I live in Puebla, Mexico.
+I am 28 years old and I live in Puebla, Mexico.
 
 - I work as a support engineer in [@FFT México](https://www.fft.de/es/empresa/presencia/puebla-mexiko-es)
 
